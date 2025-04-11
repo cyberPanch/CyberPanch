@@ -1,16 +1,65 @@
-## Hi there 👋
+# Hello, I'm Francisco
+<a href="www.linkedin.com/in/francisco-aguilar-p2624"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=neongreen" /></a>
 
-<!--
-**cyberPanch/CyberPanch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Motivated and detail-oriented professional with a background in traffic control and a strong interest in cybersecurity. Adept at managing teams, implementing safety protocols, and analyzing technical systems to ensure efficiency and security. Over a year of dedicated training through the Google Cybersecurity Certificate and Steven’s MyDFIR 30-Day Challenge, building hands-on skills in threat detection, digital forensics, and incident response. Proven ability to quickly learn and adapt to new technologies, demonstrated through setting up and managing a cloud-based cybersecurity lab. Looking to transition into a cybersecurity role where I can apply my skills in log management, threat hunting, and network security.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Objective
+As I continue to sharpen my skills in areas like threat detection, digital forensics, and incident response, I’m actively pursuing opportunities to break into the cybersecurity field. My goal is to join a team where I can grow, contribute, and help protect critical systems while continuing to develop as a security practitioner.
+
+
+# 🛡️ MyDFIR 30-Day SOC Analyst Challenge
+
+A hands-on project simulating real-world SOC workflows using Elastic Stack, EDR, and cloud-based endpoint monitoring. Completed as part of my continued learning and skill development in cybersecurity.
+
+---
+
+## Skills
+
+| Skill                                           | Associated Project |
+|------------------------------------------------|--------------------|
+| SIEM Deployment and Log Ingestion               | <a href="https://github.com/Abdulazeez007/SOC-AUTOMATION-ELK-STACK">MyDFIR 30-Day Challenge</a> |
+| Endpoint Monitoring with Elastic Agent          | <a href="https://github.com/Abdulazeez007/SOC-AUTOMATION-ELK-STACK">MyDFIR 30-Day Challenge</a> |
+| Threat Detection and Alerting with Kibana       | <a href="https://github.com/Abdulazeez007/SOC-AUTOMATION-ELK-STACK">MyDFIR 30-Day Challenge</a> |
+| SSH Brute Force Simulation and Analysis         | <a href="https://github.com/Abdulazeez007/SOC-AUTOMATION-ELK-STACK">MyDFIR 30-Day Challenge</a> |
+| Incident Detection and Dashboard Visualization  | <a href="https://github.com/Abdulazeez007/SOC-AUTOMATION-ELK-STACK">MyDFIR 30-Day Challenge</a> |
+
+---
+
+## Tools
+
+### 🖧 Network
+<div>
+    <img src="https://img.shields.io/badge/-SSH-333333?&style=for-the-badge&logo=OpenSSH&logoColor=white" />
+    <img src="https://img.shields.io/badge/-UFW-333333?&style=for-the-badge&logo=Ubuntu&logoColor=white" />
+</div>
+
+### 💻 Endpoint
+<div>
+    <img src="https://img.shields.io/badge/-Windows_Server-0078D6?&style=for-the-badge&logo=Windows&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Ubuntu_Server-E95420?&style=for-the-badge&logo=Ubuntu&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Elastic_Agent-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+</div>
+
+### 📊 SIEM
+<div>
+    <img src="https://img.shields.io/badge/-Elasticsearch-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Logstash-500000?&style=for-the-badge&logo=Elastic&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Kibana-BC027F?&style=for-the-badge&logo=Elastic&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Elastic_EDR-000000?&style=for-the-badge&logo=Elastic&logoColor=white" />
+</div>
+
+---
+
+## 🧾 Certifications
+<div>
+  <a href="https://www.credly.com/org/googlecareercertificates/badge/google-cybersecurity-certificate" target="_blank">
+    <img src="https://img.shields.io/badge/-Google_Cybersecurity_Certificate-4285F4?style=for-the-badge&logo=Google&logoColor=white" alt="Google Cybersecurity Certificate Badge"/>
+  </a>
+  <img src="https://img.shields.io/badge/-MyDFIR_30--Day_Challenge-FF0000?style=for-the-badge&logo=YouTube&logoColor=white" alt="MyDFIR 30-Day Challenge Badge"/>
+</div>
+
+---
+
+## 📁 Projects
+- <a href="https://github.com/Abdulazeez007/SOC-AUTOMATION-ELK-STACK">MyDFIR 30-Day Challenge (SOC Lab)</a>
