@@ -18,12 +18,12 @@ A hands-on project simulating real-world SOC workflows using Elastic Stack, EDR,
 
 | Skill                                           | Associated Project |
 |------------------------------------------------|--------------------|
-| SIEM Deployment and Log Ingestion               | <a href="https://github.com/Abdulazeez007/SOC-AUTOMATION-ELK-STACK">MyDFIR 30-Day Challenge</a> |
-| Endpoint Monitoring with Elastic Agent          | <a href="https://github.com/Abdulazeez007/SOC-AUTOMATION-ELK-STACK">MyDFIR 30-Day Challenge</a> |
-| Threat Detection and Alerting with Kibana       | <a href="https://github.com/Abdulazeez007/SOC-AUTOMATION-ELK-STACK">MyDFIR 30-Day Challenge</a> |
-| SSH Brute Force Simulation and Analysis         | <a href="https://github.com/Abdulazeez007/SOC-AUTOMATION-ELK-STACK">MyDFIR 30-Day Challenge</a> |
-| Incident Detection and Dashboard Visualization  | <a href="https://github.com/Abdulazeez007/SOC-AUTOMATION-ELK-STACK">MyDFIR 30-Day Challenge</a> |
-
+| SIEM Deployment and Log Ingestion               | <a href="https://www.youtube.com/watch?v=ypXARA5Uk4I&t=15s">SIEM Deployment and Log Ingestion</a>|
+| Endpoint Monitoring with Elastic Agent          | <a href="https://www.youtube.com/watch?v=Ec-Ab8TbJKs">MyDFIR 30-Day Challenge (Day-29)</a> |
+| Threat Detection and Alerting with Kibana       | <a href="https://www.youtube.com/watch?v=AdUMhT1l1eY&t=604s">MYDFIR 30-Day Challenge (Day 14-17)</a> |
+| SSH Brute Force Simulation and Analysis         | <a href="https://www.youtube.com/watch?v=8sJCzoCGexE&t=1372s">MyDFIR 30-Day Challenge (Day-26)</a> |
+| Incident Detection and Dashboard Visualization  | <a href="https://www.youtube.com/watch?v=WcVuUamMApA">MyDFIR 30-Day Challenge (Day-22)</a> |
+| Building a Home Lab                             | <a href="https://www.youtube.com/watch?v=kku0fVfksrk&list=PLG6KGSNK4PuBWmX9NykU0wnWamjxdKhDJ&index=1">Building A Home Lab</a> |
 ---
 
 ## Tools
@@ -62,4 +62,4 @@ A hands-on project simulating real-world SOC workflows using Elastic Stack, EDR,
 ---
 
 ## 📁 Projects
-- <a href="https://github.com/Abdulazeez007/SOC-AUTOMATION-ELK-STACK">MyDFIR 30-Day Challenge (SOC Lab)</a>
+- <a href="https://www.youtube.com/playlist?list=PLG6KGSNK4PuBb0OjyDIdACZnb8AoNBeq6">MyDFIR 30-Day Challenge (SOC Lab)</a>
