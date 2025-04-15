@@ -19,7 +19,7 @@ A hands-on project simulating real-world SOC workflows using Elastic Stack, EDR,
 | Skill                                           | Associated Project |
 |------------------------------------------------|--------------------|
 | SIEM Deployment and Log Ingestion               | <a href="https://www.youtube.com/watch?v=ypXARA5Uk4I&t=15s">SIEM Deployment and Log Ingestion</a>|
-| Endpoint Monitoring with Elastic Agent          | <a href="https://www.youtube.com/watch?v=Ec-Ab8TbJKs">MyDFIR 30-Day Challenge (Day-29)</a> |
+| Endpoint Monitoring with Elastic Agent          | <a href="https://www.canva.com/design/DAGkvYmjpFs/aOFQR6Rzc1eqfOeM9tEcHA/edit?utm_content=DAGkvYmjpFs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"> Endpoint Monitoring With Elastic Agent</a> |
 | Threat Detection and Alerting with Kibana       | <a href="https://www.youtube.com/watch?v=AdUMhT1l1eY&t=604s">MYDFIR 30-Day Challenge (Day 14-17)</a> |
 | SSH Brute Force Simulation and Analysis         | <a href="https://www.youtube.com/watch?v=8sJCzoCGexE&t=1372s">MyDFIR 30-Day Challenge (Day-26)</a> |
 | Incident Detection and Dashboard Visualization  | <a href="https://www.youtube.com/watch?v=WcVuUamMApA">MyDFIR 30-Day Challenge (Day-22)</a> |
