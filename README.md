@@ -63,4 +63,4 @@ A hands-on project simulating real-world SOC workflows using Elastic Stack, EDR,
 
 ## 📁 Projects
 - <a href="https://www.youtube.com/playlist?list=PLG6KGSNK4PuBb0OjyDIdACZnb8AoNBeq6">MyDFIR 30-Day Challenge (SOC Lab)</a>
-- <a href= "Screenshot 2025-03-05 114916.png"> Mythic Server & Agent Setup (MyDFIR30-Day-Challenge)</a>
+- <a href= "https://www.canva.com/design/DAGkvJkgjkk/elJu9pDR-MkaItazqUmVow/edit?utm_content=DAGkvJkgjkk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"> Mythic C2 Framework (MyDFIR30-Day-Challenge)</a>
