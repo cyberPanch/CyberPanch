@@ -18,12 +18,12 @@ A hands-on project simulating real-world SOC workflows using Elastic Stack, EDR,
 
 | Skill                                           | Associated Project |
 |------------------------------------------------|--------------------|
-| SIEM Deployment and Log Ingestion               | <a href="https://www.youtube.com/watch?v=ypXARA5Uk4I&t=15s">SIEM Deployment and Log Ingestion</a>|
 | Endpoint Monitoring with Elastic Agent          | <a href="https://www.canva.com/design/DAGkvYmjpFs/bUuFLBQjdpoKinmISz-rFw/view?utm_content=DAGkvYmjpFs&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h1a1780c3c6"> Endpoint Monitoring With Elastic Agent</a> |
 | Threat Detection and Alerting with Kibana       | <a href="https://www.youtube.com/watch?v=AdUMhT1l1eY&t=604s">MYDFIR 30-Day Challenge (Day 14-17)</a> |
 | SSH Brute Force Simulation and Analysis         | <a href="https://www.youtube.com/watch?v=8sJCzoCGexE&t=1372s">MyDFIR 30-Day Challenge (Day-26)</a> |
 | Incident Detection and Dashboard Visualization  | <a href="https://www.canva.com/design/DAGkv0QWTJM/H-Bb2TY3ValYmmgst9Oh_g/view?utm_content=DAGkv0QWTJM&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h061f4ba676">Incident Response(MyDFIR 30-Day Challenge)</a> |
 | Building a Home Lab                             | <a href="https://www.youtube.com/watch?v=kku0fVfksrk&list=PLG6KGSNK4PuBWmX9NykU0wnWamjxdKhDJ&index=1">Building A Home Lab</a> |
+| SIEM Deployment and Log Ingestion               | <a href="https://www.youtube.com/watch?v=ypXARA5Uk4I&t=15s">SIEM Deployment and Log Ingestion</a>|
 ---
 
 ## Tools
