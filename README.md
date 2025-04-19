@@ -18,7 +18,7 @@ A hands-on project simulating real-world SOC workflows using Elastic Stack, EDR,
 
 | Skill                                           | Associated Project |
 |------------------------------------------------|--------------------|
-| Endpoint Monitoring with Elastic Agent          | <a href="https://www.canva.com/design/DAGkvYmjpFs/bUuFLBQjdpoKinmISz-rFw/view?utm_content=DAGkvYmjpFs&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h1a1780c3c6"> Endpoint Monitoring With Elastic Agent</a> |
+| Endpoint Monitoring with Elastic Agent          | <a href="https://github.com/cyberPanch/Endpoint-Monitoring"> Endpoint Monitoring With Elastic Agent</a> |
 | Threat Detection and Alerting with Kibana       | <a href="https://www.youtube.com/watch?v=AdUMhT1l1eY&t=604s">MYDFIR 30-Day Challenge (Day 14-17)</a> |
 | SSH Brute Force Simulation and Analysis         | <a href="https://www.youtube.com/watch?v=8sJCzoCGexE&t=1372s">MyDFIR 30-Day Challenge (Day-26)</a> |
 | Incident Detection and Dashboard Visualization  | <a href="https://www.canva.com/design/DAGkv0QWTJM/H-Bb2TY3ValYmmgst9Oh_g/view?utm_content=DAGkv0QWTJM&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h061f4ba676">Incident Response(MyDFIR 30-Day Challenge)</a> |
