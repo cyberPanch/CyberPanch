@@ -1,5 +1,5 @@
 # Hello, I'm Francisco
-<a href="www.linkedin.com/in/francisco-aguilar-p2624"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=neongreen" /></a>
+<a href="https://www.linkedin.com/in/francisco-aguilar-p2624/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=neongreen" /></a>
 
 Motivated and detail-oriented professional with a background in traffic control and a strong interest in cybersecurity. Adept at managing teams, implementing safety protocols, and analyzing technical systems to ensure efficiency and security. Over a year of dedicated training through the Google Cybersecurity Certificate and Steven’s MyDFIR 30-Day Challenge, building hands-on skills in threat detection, digital forensics, and incident response. Proven ability to quickly learn and adapt to new technologies, demonstrated through setting up and managing a cloud-based cybersecurity lab. Looking to transition into a cybersecurity role where I can apply my skills in log management, threat hunting, and network security.
 
